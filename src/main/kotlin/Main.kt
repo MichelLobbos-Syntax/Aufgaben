@@ -21,7 +21,8 @@ fun main() {
     var BMI = gewicht / (größe * größe)
     println("BMI = $BMI")
 
-    
+
+
 
 
 >>>>>>> fe61efb (BMI)
