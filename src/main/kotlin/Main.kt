@@ -14,7 +14,4 @@ fun main() {
     println("BMI = $BMI")
 
 
-
-
-
 }
