@@ -13,7 +13,7 @@ fun main() {
     if (zufallZahl==nummer)
         println("HUHUUUUU GLÜCKWÜNSCH herr $name, Sie haben gewonnen")
     else
-        println("Die richtige Zahl ist $zufallZahl, viel Glück beim nächstes mal ")
+        println("Das richtige Zahl ist $zufallZahl, viel Glück beim nächstes mal ")
 
 
 
